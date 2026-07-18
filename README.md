@@ -8,7 +8,8 @@ SampleDetect iOS app.
 - `manifest.json` tells installed apps which catalog version is current, where
   to download it, and the expected SHA-256 checksum.
 - `samples.sqlite` is the compact, read-only catalog bundled from SampleDetect's
-  curated entries and open MusicBrainz-derived relationships.
+  curated entries and open MusicBrainz-derived relationships. It includes an
+  indexed graph projection for bidirectional Music DNA exploration.
 
 The app downloads a catalog only when the manifest version increases, verifies
 its checksum, and keeps the bundled database as a fallback.
