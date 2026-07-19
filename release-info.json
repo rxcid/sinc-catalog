@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "url": "https://raw.githubusercontent.com/rxcid/sample-detect-catalog/catalog-v3/samples.sqlite",
+  "sha256": "028c7af595ded4afcec2f9bca4f11a80c95d27f9635a92df82f3a2ead9506948",
+  "schemaVersion": 3,
+  "integrity": "ok",
+  "foreignKeyErrors": 0,
+  "counts": {
+    "songs": 14875,
+    "nodes": 32715,
+    "edges": 24312,
+    "assertions": 24400
+  },
+  "catalogMetadata": {
+    "normalization_version": "2",
+    "projection": "offline-mobile",
+    "schema_version": "3",
+    "source.curated.sha256": "bcdfdbfbcf7dfb518c92627a39db1b839a09d13f6adc05a21054f4d2e526140a",
+    "source.musicbrainz.sha256": "d3bbf8b919b5ce043bd2214b8a7118147ce8baf1304272a08d0a43de2611f2ba"
+  },
+  "databaseBytes": 64229376
+}

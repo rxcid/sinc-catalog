@@ -10,9 +10,28 @@ SampleDetect iOS app.
 - `samples.sqlite` is the compact, read-only catalog bundled from SampleDetect's
   curated entries and open MusicBrainz-derived relationships. It includes an
   indexed graph projection for bidirectional Music DNA exploration.
+- `release-info.json` records the database schema, catalog counts, input hashes,
+  and integrity result for the current immutable release.
 
 The app downloads a catalog only when the manifest version increases, verifies
-its checksum, and keeps the bundled database as a fallback.
+its checksum and schema compatibility, installs it atomically, and keeps the
+bundled database as a fallback.
+
+## Current release
+
+Catalog v3 uses SQLite schema v3 and normalization contract v2:
+
+- 14,875 sample-indexed destination songs
+- 32,715 recording/source nodes
+- 24,312 recording-level sample relationships
+- 24,400 source assertions
+- 16,478 ISRC-resolved nodes
+- 32,659 nodes with structured artist credits
+- 19,375 recording-to-work links
+
+The v3 database passed `PRAGMA integrity_check`, has zero foreign-key errors,
+and is published under the immutable `catalog-v3` Git tag before the main
+manifest is advanced.
 
 ## Data notes
 
