@@ -1,5 +1,5 @@
 {
-  "version": 2,
-  "url": "https://raw.githubusercontent.com/rxcid/sample-detect-catalog/catalog-v2/samples.sqlite",
-  "sha256": "3a4a24d62a173430ec4ad1937edc67c7de671497a3f49b3a22a0ad2b1f4f28d9"
+  "version": 4,
+  "url": "https://raw.githubusercontent.com/rxcid/sample-detect-catalog/catalog-v4/samples.sqlite",
+  "sha256": "16652633054d11025ef2b5663458c7bbcac7c4dcb6395fc1fbf1af4be58f4133"
 }
