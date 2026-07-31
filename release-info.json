@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "url": "https://raw.githubusercontent.com/rxcid/sample-detect-catalog/catalog-v4/samples.sqlite",
+  "url": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v4/samples.sqlite",
   "sha256": "16652633054d11025ef2b5663458c7bbcac7c4dcb6395fc1fbf1af4be58f4133",
   "schemaVersion": 3,
   "integrity": "ok",
