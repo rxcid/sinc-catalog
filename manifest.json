@@ -1,5 +1,8 @@
 {
   "version": 5,
   "url": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v5/samples.sqlite",
-  "sha256": "0f66c5387f1f3693e082179be0057a5001b92b4c038e8b5ca6b4b2e052384bd4"
+  "sha256": "0f66c5387f1f3693e082179be0057a5001b92b4c038e8b5ca6b4b2e052384bd4",
+  "deflateUrl": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v5/samples.sqlite.deflate",
+  "deflateSha256": "84ab51ebac5832b95974741a95121046e0b123de2340bc944e4ae0e9c35d13da",
+  "deflateBytes": 41250580
 }
