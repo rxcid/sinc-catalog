@@ -1,22 +1,25 @@
 {
-  "version": 4,
-  "url": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v4/samples.sqlite",
-  "sha256": "16652633054d11025ef2b5663458c7bbcac7c4dcb6395fc1fbf1af4be58f4133",
+  "version": 6,
+  "url": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v6/samples.sqlite",
+  "sha256": "19eafde478a50e457564485a1aefd3bc563ddd3202726610a315dcabcfa5dde5",
+  "deflateUrl": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v6/samples.sqlite.deflate",
+  "deflateSha256": "6a28dd34805549465e6f13ab504519899cb6acc2017427de3abd8cca1f843f4e",
+  "deflateBytes": 26007843,
   "schemaVersion": 3,
   "integrity": "ok",
   "foreignKeyErrors": 0,
   "counts": {
-    "songs": 14876,
-    "nodes": 32716,
-    "edges": 24313,
-    "assertions": 24401
+    "songs": 14995,
+    "nodes": 32950,
+    "edges": 24486,
+    "assertions": 24573
   },
   "catalogMetadata": {
     "normalization_version": "2",
     "projection": "offline-mobile",
     "schema_version": "3",
     "source.curated.sha256": "9bed507968c78c878910fd11882edba7067ab55b2cc7924732e6a8862d88baf7",
-    "source.musicbrainz.sha256": "d3bbf8b919b5ce043bd2214b8a7118147ce8baf1304272a08d0a43de2611f2ba"
+    "source.musicbrainz.sha256": "b66e9f1ddbfdbff0a243215400a6d3fda901ad699476b4a0f20a1dc53db8f635"
   },
-  "databaseBytes": 64319488
+  "databaseBytes": 64679936
 }
