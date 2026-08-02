@@ -1,25 +1,25 @@
 {
-  "version": 6,
-  "url": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v6/samples.sqlite",
-  "sha256": "19eafde478a50e457564485a1aefd3bc563ddd3202726610a315dcabcfa5dde5",
-  "deflateUrl": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v6/samples.sqlite.deflate",
-  "deflateSha256": "6a28dd34805549465e6f13ab504519899cb6acc2017427de3abd8cca1f843f4e",
-  "deflateBytes": 26007843,
+  "version": 7,
+  "url": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v7/samples.sqlite",
+  "sha256": "902ac6f6f4f9e92de7330d6a71ab81937abb0865e6c4092ae4fc62d35d381847",
+  "deflateUrl": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v7/samples.sqlite.deflate",
+  "deflateSha256": "2977784b82ef690bac0a1acca79e5ee3be9e870dab25b290e766f216eb4c480a",
+  "deflateBytes": 26169649,
   "schemaVersion": 3,
   "integrity": "ok",
   "foreignKeyErrors": 0,
   "counts": {
-    "songs": 14995,
-    "nodes": 32950,
-    "edges": 24486,
-    "assertions": 24573
+    "songs": 15093,
+    "nodes": 33213,
+    "edges": 24779,
+    "assertions": 24872
   },
   "catalogMetadata": {
     "normalization_version": "2",
     "projection": "offline-mobile",
     "schema_version": "3",
-    "source.curated.sha256": "9bed507968c78c878910fd11882edba7067ab55b2cc7924732e6a8862d88baf7",
+    "source.curated.sha256": "4b66272a7e0a0a90825c762e6b70ac8606fd1388f21eea6cf8581510cb84b788",
     "source.musicbrainz.sha256": "b66e9f1ddbfdbff0a243215400a6d3fda901ad699476b4a0f20a1dc53db8f635"
   },
-  "databaseBytes": 64679936
+  "databaseBytes": 65122304
 }
