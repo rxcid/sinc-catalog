@@ -1,8 +1,8 @@
 {
-  "version": 8,
-  "url": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v8/samples.sqlite",
-  "sha256": "a0399b5c679f240cdb872425719b33316c163f40056edca72de126d532b55d7a",
-  "deflateUrl": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v8/samples.sqlite.deflate",
-  "deflateSha256": "25742a7ece2c4cafc213627a1ac75294d33128280227cfcecf5e140e693a85f5",
-  "deflateBytes": 26808580
+  "version": 9,
+  "url": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v9/samples.sqlite",
+  "sha256": "0d3e87046a506751c3b6d2b5e77e1271705107cb492df1b1bc231928e6d18afe",
+  "deflateUrl": "https://github.com/rxcid/sinc-catalog/releases/download/catalog-v9/samples.sqlite.deflate",
+  "deflateSha256": "56d9a6bd18cdaa72ed77a6e35698b026b6942ede96fc173c48fe990041983295",
+  "deflateBytes": 26864469
 }
